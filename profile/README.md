@@ -10,21 +10,15 @@ In mijn vrije tijd kun je me vaak vinden in mijn eigen homelab, waar ik experime
 
 ## Expertise
 
-Met een achtergrond in gamedevelopment heb ik een solide basis voor het bouwen van boeiende en interactieve ervaringen. Daarnaast gaat mijn interesse verder dan de gebruikelijke ontwikkeling, en ik ben ook betrokken bij het programmeren van blockchain technologieën.
-
-Ik geloof in de kracht van technologie om verandering te brengen en ben altijd op zoek naar nieuwe uitdagingen en mogelijkheden om mijn vaardigheden uit te breiden.
-
-## Wat We Doen
-
-Bij van der Geld Development streven we ernaar om innovatieve oplossingen te bieden door middel van softwareontwikkeling. Ons ervaren team van ontwikkelaars werkt samen om gebruiksvriendelijke en op maat gemaakte oplossingen te leveren.
-
-### Onze Expertise
-
 - Het maken van de tofste games
 - Blockchainontwikkeling
 - Applicatieontwikkeling
 - Portalontwikkeling
 - Websiteontwikkeling
+
+Met een achtergrond in gamedevelopment heb ik een solide basis voor het bouwen van boeiende en interactieve ervaringen. Daarnaast gaat mijn interesse verder dan de gebruikelijke ontwikkeling, en ik ben ook betrokken bij het programmeren van blockchain technologieën.
+
+Ik geloof in de kracht van technologie om verandering te brengen en ben altijd op zoek naar nieuwe uitdagingen en mogelijkheden om mijn vaardigheden uit te breiden.
 
 ## Waarom van der Geld Development?
 
